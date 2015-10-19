@@ -1,0 +1,51 @@
+/* TEAM */
+    Who Made It: Jean Claudette Ambait
+    Contact: jeanclaudetteambait [at] gmail.com
+    Twitter: @ginclawdeath
+    From: Manila, Philippines
+
+    Boss of Who Made It: Julius Aniceto Cebreros
+    Contact: juliuscebreros [at] gmail.com
+    Twitter: @tusongtupa
+    From: Manila, Philippines
+
+/* THANKS */
+    V2
+    Angular community for tutorials
+
+    Name: Palleton
+    URL: http://paletton.com/
+
+    V1
+    Name: Subtle Patterns
+    URL: http://subtlepatterns.com/
+
+    Name: Colourlovers
+    URL: http://www.colourlovers.com/palette/209701/Burning_Angel
+
+    Name: Design Shack
+    URL: http://designshack.net/articles/graphics/25-brilliantly-simple-web-page-designs/
+
+    Name: CSS-tricks
+    URL: http://css-tricks.com/flat-icons-icon-fonts/
+
+    Name: Rondo Social Icon Font
+    URL: http://www.tajfa.com/projects/rondo/
+
+/* SITE */
+    V4
+    Last update:2015/10/20 - Static
+
+    V3
+    Last update:2014/11/19 - Redesign
+
+    V2
+    Last update:2014/08/28 - Change to angular-fullstack site
+
+    V1
+    Last update:2014/07/23 - add flappy bird @ ./flap
+    Update:2013/06/23
+    Language:English
+    Doctype:HTML5
+    IDE: Sublime Text 2
+    Web Framework: ExpressJS

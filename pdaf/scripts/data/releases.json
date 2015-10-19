@@ -1,0 +1,1635 @@
+{
+    "year": 2013,
+    "data": [
+        {
+            "province": "Region 1",
+            "data": [
+                {
+                    "District": "2nd District, Ilocos Norte",
+                    "Legislator": "Marcos, Imelda R.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Ilocos Sur",
+                    "Legislator": "Singson, Ryan Luis V.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Ilocos Sur",
+                    "Legislator": "Singson, Eric Jr. G.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, La Union",
+                    "Legislator": "Ortega, Victor Francisco C.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, La Union",
+                    "Legislator": "Eriguel, Eufranio C.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Pangasinan",
+                    "Legislator": "Celeste, Jesus F.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Pangasinan",
+                    "Legislator": "Bataoil, Leopoldo N.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Pangasinan",
+                    "Legislator": "Arenas, Ma. Rachel J.",
+                    "New Appropriation": "15,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "15,000,000"
+                },
+                {
+                    "District": "4th District, Pangasinan",
+                    "Legislator": "De Venecia, Ma. Georgina P.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "5th District, Pangasinan",
+                    "Legislator": "Cojuangco, Kimi S.",
+                    "New Appropriation": "31,900,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "31,900,000"
+                },
+                {
+                    "District": "6th District, Pangasinan",
+                    "Legislator": "Primicias-Agabas, Marlyn L.",
+                    "New Appropriation": "28,450,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "28,450,000"
+                }
+            ],
+            "total": "355,350,000"
+        },
+        {
+            "province": "Region 2",
+            "data": [
+                {
+                    "District": "Lone District, Batanes",
+                    "Legislator": "Abad, Henedina R.",
+                    "New Appropriation": "34,900,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "34,900,000"
+                },
+                {
+                    "District": "1st District, Cagayan",
+                    "Legislator": "Ponce Enrile, Juan Jr. C.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Cagayan",
+                    "Legislator": "Vargas-Alfonso, Baby Aline",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Cagayan",
+                    "Legislator": "Ting, Randolph S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Isabela",
+                    "Legislator": "Albano, Rodolfo B.",
+                    "New Appropriation": "21,083,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "21,083,000"
+                },
+                {
+                    "District": "2nd District, Isabela",
+                    "Legislator": "Go, Ana Cristina S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Isabela",
+                    "Legislator": "Dy, Napoleon S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "4th District, Isabela",
+                    "Legislator": "Aggabao, Giorgidi B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Nueva Vizcaya",
+                    "Legislator": "Padilla, Carlos M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Quirino",
+                    "Legislator": "Cua, Dakila Carlo E.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                }
+            ],
+            "total": "335,983,000"
+        },
+        {
+            "province": "Region 3",
+            "data": [
+                {
+                    "District": "Lone District, Aurora",
+                    "Legislator": "Angara, Juan Edgardo M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Bataan",
+                    "Legislator": "Roman, Herminia B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Bataan",
+                    "Legislator": "Garcia, Albert Raymond S.",
+                    "New Appropriation": "34,986,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "34,986,000"
+                },
+                {
+                    "District": "1st District, Bulacan",
+                    "Legislator": "Sy-Alvarado, Ma. Victoria R.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Bulacan",
+                    "Legislator": "Pancho, Pedro M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Bulacan",
+                    "Legislator": "Mendoza, Joselito Andrew R.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "4th District, Bulacan",
+                    "Legislator": "Villarica, Linabelle Ruth R.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Nueva Ecija",
+                    "Legislator": "Joson, Josefina M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Nueva Ecija",
+                    "Legislator": "Violago, Joseph Gilbert F.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Nueva Ecija",
+                    "Legislator": "Umali, Czarina D.",
+                    "New Appropriation": "32,500,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "32,500,000"
+                },
+                {
+                    "District": "4th District, Nueva Ecija",
+                    "Legislator": "Antonino, Rodolfo W.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Pampanga",
+                    "Legislator": "Lazatin, Carmelo F.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Pampanga",
+                    "Legislator": "Macapagal-Arroyo, Gloria M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Pampanga",
+                    "Legislator": "Gonzales, Aurelio Jr. D.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "4th District, Pampanga",
+                    "Legislator": "Bondoc, Anna York P.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, San Jose del Monte City",
+                    "Legislator": "Robes, Arturo B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Tarlac",
+                    "Legislator": "Cojuangco, Enrique M.",
+                    "New Appropriation": "1,708,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "1,708,000"
+                },
+                {
+                    "District": "2nd District, Tarlac",
+                    "Legislator": "Yap, Susan A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Tarlac",
+                    "Legislator": "Lapus, Jeci A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Zambales",
+                    "Legislator": "Ebdane, Jun Omar C.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                }
+            ],
+            "total": "664,194,000"
+        },
+        {
+            "province": "Region 4-A",
+            "data": [
+                {
+                    "District": "1st District, Antipolo City",
+                    "Legislator": "Puno, Roberto V.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Antipolo City",
+                    "Legislator": "Acop, Romeo M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Batangas",
+                    "Legislator": "Apacible, Tomas V.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Batangas",
+                    "Legislator": "Mandanas, Hermilando I.",
+                    "New Appropriation": "14,001,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "14,001,000"
+                },
+                {
+                    "District": "3rd District, Batangas",
+                    "Legislator": "Collantes, Nelson P.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "4th District, Batangas",
+                    "Legislator": "Mendoza, Mark Llandro L.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Cavite",
+                    "Legislator": "Revilla, Lani M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Cavite",
+                    "Legislator": "Maliksi, Erineo S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "4th District, Cavite",
+                    "Legislator": "Barzaga, Elpidio Jr. F.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "5th District, Cavite",
+                    "Legislator": "Loyola, Roy M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "6th District, Cavite",
+                    "Legislator": "Ferrer, Antonio A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "7th District, Cavite",
+                    "Legislator": "Remulla, Jesus Crispin C.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Laguna",
+                    "Legislator": "Fernandez, Danilo Ramon S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Laguna",
+                    "Legislator": "Chipeco, Justin Marc SB.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Laguna",
+                    "Legislator": "Arago, Ma. Evita R.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "4th District, Laguna",
+                    "Legislator": "San Luis, Edgar S.",
+                    "New Appropriation": "15,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "15,000,000"
+                },
+                {
+                    "District": "1st District, Quezon",
+                    "Legislator": "Enverga, Wilfrido Mark M.",
+                    "New Appropriation": "29,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "29,000,000"
+                },
+                {
+                    "District": "2nd District, Quezon",
+                    "Legislator": "Alcala, Irvin M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Quezon",
+                    "Legislator": "Suarez, Danilo E.",
+                    "New Appropriation": "33,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "33,000,000"
+                },
+                {
+                    "District": "4th District, Quezon",
+                    "Legislator": "Tañada, Lorenzo III R.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Rizal",
+                    "Legislator": "Duavit, Joel Roy R.",
+                    "New Appropriation": "20,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "20,000,000"
+                },
+                {
+                    "District": "2nd District, Rizal",
+                    "Legislator": "Rodriguez, Isidro Jr. S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                }
+            ],
+            "total": "706,001,000"
+        },
+        {
+            "province": "Region 4-B",
+            "data": [
+                {
+                    "District": "Lone District, Marinduque",
+                    "Legislator": "Velasco, Lord Allan Jay Q.",
+                    "New Appropriation": "34,600,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "34,600,000"
+                },
+                {
+                    "District": "Lone District, Occidental Mindoro",
+                    "Legislator": "Villarosa, Ma. Amelita C.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Oriental Mindoro",
+                    "Legislator": "Valencia, Rodolfo G.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Oriental Mindoro",
+                    "Legislator": "Umali, Reynaldo V.",
+                    "New Appropriation": "20,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "20,000,000"
+                },
+                {
+                    "District": "1st District, Palawan",
+                    "Legislator": "Alvarez, Antonio C.",
+                    "New Appropriation": "15,850,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "15,850,000"
+                },
+                {
+                    "District": "2nd District, Palawan",
+                    "Legislator": "Socrates, Victorino Dennis M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Romblon",
+                    "Legislator": "Madrona, Eleandro Jesus F.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,00"
+                }
+            ],
+            "total": "210,450,000"
+        },
+        {
+            "province": "Region 5",
+            "data": [
+                {
+                    "District": "1st District, Albay",
+                    "Legislator": "Lagman, Edcel C.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Albay",
+                    "Legislator": "Gonzalez, Fernando V.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Camarines Norte",
+                    "Legislator": "Unico, Renato Jr. J.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Camarines Norte",
+                    "Legislator": "Panotes, Elmer E.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Camarines Sur",
+                    "Legislator": "Andaya, Rolando Jr. G.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Camarines Sur",
+                    "Legislator": "Villafuerte, Luis R.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "4th District, Camarines Sur",
+                    "Legislator": "Fuentebella, Arnulfo P.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "5th District, Camarines Sur",
+                    "Legislator": "Fortuno, Salvio B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Catanduanes",
+                    "Legislator": "Sarmiento, Cesar V.",
+                    "New Appropriation": "33,500,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "33,500,000"
+                },
+                {
+                    "District": "1st District, Masbate",
+                    "Legislator": "Bravo, Narciso Jr. R.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Masbate",
+                    "Legislator": "Kho, Antonio T.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Masbate",
+                    "Legislator": "Lanete, Scott Davies S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Sorsogon",
+                    "Legislator": "Escudero, Salvador III H.",
+                    "New Appropriation": "20,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "20,000,000"
+                },
+                {
+                    "District": "2nd District, Sorsogon",
+                    "Legislator": "Ramos, Deogracias Jr. B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                }
+            ],
+            "total": "473,500,000"
+        },
+        {
+            "province": "Region 6",
+            "data": [
+                {
+                    "District": "Lone District, Aklan",
+                    "Legislator": "Miraflores, Florencio T.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Antique",
+                    "Legislator": "Javier, Paolo Everardo S.",
+                    "New Appropriation": "30,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "30,000,000"
+                },
+                {
+                    "District": "Lone District, Bacolod City",
+                    "Legislator": "Golez, Anthony Rolando Jr. T.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Capiz",
+                    "Legislator": "Del Rosario, Antonio A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Capiz",
+                    "Legislator": "Castro, Jane T.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Guimaras",
+                    "Legislator": "Nava, Joaquin Carlos Rahman A.",
+                    "New Appropriation": "33,485,650",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "33,485,650"
+                },
+                {
+                    "District": "1st District, Iloilo",
+                    "Legislator": "Garin, Janette L.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Iloilo",
+                    "Legislator": "Defensor, Arthur Jr. R.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "4th District, Iloilo",
+                    "Legislator": "Biron, Ferjenel G.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "5th District, Iloilo",
+                    "Legislator": "Tupas, Niel Jr. C.",
+                    "New Appropriation": "33,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "33,000,000"
+                },
+                {
+                    "District": "Lone District, Iloilo City",
+                    "Legislator": "Treñas, Jerry P.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Negros Occidental",
+                    "Legislator": "Ledesma, Julio IV A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Negros Occidental",
+                    "Legislator": "Marañon, Alfredo III D.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Negros Occidental",
+                    "Legislator": "Benitez, Alfredo Abelardo B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "4th District, Negros Occidental",
+                    "Legislator": "Ferrer, Jeffrey P.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "5th District, Negros Occidental",
+                    "Legislator": "Mirasol, Alejandro Y.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "6th District, Negros Occidental",
+                    "Legislator": "Alvarez, Mercedes K.",
+                    "New Appropriation": "34,955,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "34,955,000"
+                }
+            ],
+            "total": "586,440,650"
+        },
+        {
+            "province": "Region 7",
+            "data": [
+                {
+                    "District": "1st District, Bohol",
+                    "Legislator": "Relampagos, Rene L.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Bohol",
+                    "Legislator": "Aumentado, Erico B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Cebu",
+                    "Legislator": "Gullas, Eduardo R.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Cebu",
+                    "Legislator": "Garcia, Pablo P.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Cebu",
+                    "Legislator": "Garcia, Pablo John F.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "4th District, Cebu",
+                    "Legislator": "Salimbangon, Benhur L.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "5th District, Cebu",
+                    "Legislator": "Durano, Ramon VI H.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "6th District, Cebu",
+                    "Legislator": "Quisumbing, Gabriel R.",
+                    "New Appropriation": "20,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "20,000,000"
+                },
+                {
+                    "District": "1st District, Cebu City",
+                    "Legislator": "Del Mar, Rachel Marguerite B.",
+                    "New Appropriation": "15,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "15,000,000"
+                },
+                {
+                    "District": "2nd District, Cebu City",
+                    "Legislator": "Osmeña, Tomas D.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Lapu-Lapu City",
+                    "Legislator": "Radaza, Arturo O.",
+                    "New Appropriation": "20,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "20,000,000"
+                },
+                {
+                    "District": "1st District, Negros Oriental",
+                    "Legislator": "Limkaichong, Jocelyn S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Negros Oriental",
+                    "Legislator": "Arnaiz, George P.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Negros Oriental",
+                    "Legislator": "Teves, Pryde Henry A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Siquijor",
+                    "Legislator": "Fua, Orlando B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                }
+            ],
+            "total": "475,000,000"
+        },
+        {
+            "province": "Region 8",
+            "data": [
+                {
+                    "District": "Lone District, Biliran",
+                    "Legislator": "Espina, Rogelio J.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Eastern Samar",
+                    "Legislator": "Evardone, Ben P.",
+                    "New Appropriation": "34,875,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "34,875,000"
+                },
+                {
+                    "District": "1st DIstrict, Leyte",
+                    "Legislator": "Romualdez, Ferdinand Martin G.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Leyte",
+                    "Legislator": "Apostol, Sergio F.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Leyte",
+                    "Legislator": "Salvacion, Andres Jr. D.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "4th District, Leyte",
+                    "Legislator": "Gomez, Lucy T.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "5th District, Leyte",
+                    "Legislator": "Cari, Jose Carlos L.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Northern Samar",
+                    "Legislator": "Daza, Raul A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Northern Samar",
+                    "Legislator": "Ong, Emil L.",
+                    "New Appropriation": "21,200,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "21,200,000"
+                },
+                {
+                    "District": "1st District, Samar",
+                    "Legislator": "Sarmiento, Mel Senen S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Samar",
+                    "Legislator": "Tan, Milagrosa T.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Southern Leyte",
+                    "Legislator": "Mercado, Roger G.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                }
+            ],
+            "total": "406,075,000"
+        },
+        {
+            "province": "Region 9",
+            "data": [
+                {
+                    "District": "Lone District, Basilan",
+                    "Legislator": "Hataman-Salliman, Jim S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Sulu",
+                    "Legislator": "Loong, Tupay",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Sulu",
+                    "Legislator": "Sahidulla, Nur-Ana I.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Tawi-tawi",
+                    "Legislator": "Jaafar, Nur",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Zamboanga City",
+                    "Legislator": "Climaco, Maria Isabelle G.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Zamboanga City",
+                    "Legislator": "Fabian, Erico Basilio A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Zamboanga Del Norte",
+                    "Legislator": "Jalosjos, Seth Fredirick P.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Zamboanga Del Norte",
+                    "Legislator": "Labadlabad, Rosendo S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Zamboanga Del Norte",
+                    "Legislator": "Jalosjos, Cesar G.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Zamboanga Del Sur",
+                    "Legislator": "Yu, Victor J.",
+                    "New Appropriation": "33,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "33,000,000"
+                },
+                {
+                    "District": "2nd District, Zamboanga Del Sur",
+                    "Legislator": "Enerio-Cerilles, Aurora E.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Zamboanga Sibugay",
+                    "Legislator": "Yambao, Jonathan C.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Zamboanga Sibugay",
+                    "Legislator": "Jalosjos, Romeo Jr. M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                }
+            ],
+            "total": "453,000,000"
+        },
+        {
+            "province": "Region 10",
+            "data": [
+                {
+                    "District": "1st District, Bukidnon",
+                    "Legislator": "Paras, Jesus Emmanuel M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Bukidnon",
+                    "Legislator": "Flores, Florencio Jr. T.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Bukidnon",
+                    "Legislator": "Zubiri, Jose Maria III F.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Cagayan de Oro City",
+                    "Legislator": "Benaldo, Jose Benjamin A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Cagayan de Oro City",
+                    "Legislator": "Rodriguez, Rufus B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Camiguin",
+                    "Legislator": "Romualdo, Pedro P.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Iligan City",
+                    "Legislator": "Belmonte, Vicente Jr. F.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Lanao Del Norte",
+                    "Legislator": "Dimaporo, Imelda Q.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Lanao Del Norte",
+                    "Legislator": "Dimaporo, Fatima Aliah Q.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Misamis Occidental",
+                    "Legislator": "Almonte, Jorge T.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Misamis Occidental",
+                    "Legislator": "Ocampos, Loreto Leo S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Misamis Oriental",
+                    "Legislator": "Unabia, Peter Sr. Pedro M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Misamis Oriental",
+                    "Legislator": "Emano, Yevgeny Vicente B.",
+                    "New Appropriation": "31,600,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "31,600,000"
+                }
+            ],
+            "total": "451,600,000"
+        },
+        {
+            "province": "Region 11",
+            "data": [
+                {
+                    "District": "1st District, Compostela Valley",
+                    "Legislator": "Zamora, Ma. Carmen S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Compostela Valley",
+                    "Legislator": "Amatong, Rommel C.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Davao City",
+                    "Legislator": "Nograles, Karlo Alexei B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Davao City",
+                    "Legislator": "Garcia-Albano, Mylene J.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Davao City",
+                    "Legislator": "Ungab, Isidro T.",
+                    "New Appropriation": "31,400,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "31,400,000"
+                },
+                {
+                    "District": "1st District, Davao del Norte",
+                    "Legislator": "Del Rosario, Anthony G.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Davao del Norte",
+                    "Legislator": "Lagdameo, Antonio Jr. F.",
+                    "New Appropriation": "20,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "20,000,000"
+                },
+                {
+                    "District": "1st District, Davao del Sur",
+                    "Legislator": "Cagas, Marc Douglas IV C.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Davao del Sur",
+                    "Legislator": "Bautista, Franklin P.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Davao Oriental",
+                    "Legislator": "Dayanghirang, Nelson L.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Davao Oriental",
+                    "Legislator": "Almario, Thelma Z.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                }
+            ],
+            "total": "366,400,000"
+        },
+        {
+            "province": "Region 12",
+            "data": [
+                {
+                    "District": "1st District, Lanao Del Sur",
+                    "Legislator": "Pangandaman, Mohammed P.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Lanao Del Sur",
+                    "Legislator": "Balindong, Pangalian M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Maguindanao",
+                    "Legislator": "Sema, Bai Sandra A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Maguindanao",
+                    "Legislator": "Datumanong, Simeon A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, North Cotabato",
+                    "Legislator": "Sacdalan, Jesus N.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, North Cotabato",
+                    "Legislator": "Catamco, Nancy A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Sarangani",
+                    "Legislator": "Pacquiao, Emmanuel D.",
+                    "New Appropriation": "28,900,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "28,900,000"
+                },
+                {
+                    "District": "1st District, South Cotabato",
+                    "Legislator": "Acharon, Pedro Jr. B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, South Cotabato",
+                    "Legislator": "Fuentes, Daisy A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Sultan Kudarat",
+                    "Legislator": "Sakaluran, Raden C.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Sultan Kudarat",
+                    "Legislator": "Go, Arnulfo F.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                }
+            ],
+            "total": "378,900,000"
+        },
+        {
+            "province": "Region 13",
+            "data": [
+                {
+                    "District": "1st District, Agusan Del Norte",
+                    "Legislator": "Aquino, Jose II S.",
+                    "New Appropriation": "33,100,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "33,100,000"
+                },
+                {
+                    "District": "2nd District, Agusan Del Norte",
+                    "Legislator": "Amante-Matba, Angelica M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Agusan Del Sur",
+                    "Legislator": "Plaza, Ma. Valentina G.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Agusan del Sur",
+                    "Legislator": "Mellana, Evelyn P.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Dinagat Islands",
+                    "Legislator": "Ecleo, Ruben Jr. B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Surigao del Norte",
+                    "Legislator": "Matugas, Francisco T.",
+                    "New Appropriation": "32,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "32,000,000"
+                },
+                {
+                    "District": "2nd District, Surigao del Norte",
+                    "Legislator": "Romarate, Guillermo Jr. A.",
+                    "New Appropriation": "29,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "29,000,000"
+                },
+                {
+                    "District": "1st District, Surigao Del Sur",
+                    "Legislator": "Pichay, Philip A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Surigao del Sur",
+                    "Legislator": "Garay, Florencio C.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                }
+            ],
+            "total": "304,100,000"
+        },
+        {
+            "province": "Cordillera Administrative Region",
+            "data": [
+                {
+                    "District": "Lone District, Abra",
+                    "Legislator": "Bernos, Ma. Jocelyn V.",
+                    "New Appropriation": "33,050,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "33,050,000"
+                },
+                {
+                    "District": "Lone District, Apayao",
+                    "Legislator": "Begtang, Eleanor B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Baguio",
+                    "Legislator": "Vergara, Bernardo M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Benguet",
+                    "Legislator": "Cosalan, Ronald M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Ifugao",
+                    "Legislator": "Baguilat, Teodoro Jr. B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Kalinga",
+                    "Legislator": "Agyao, Manuel S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Mt. Province",
+                    "Legislator": "Dalog, Maximo B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                }
+            ],
+            "total": "243,050,000"
+        },
+        {
+            "province": "National Capital Region",
+            "data": [
+                {
+                    "District": "1st District, Caloocan City",
+                    "Legislator": "Malapitan, Oscar G.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Caloocan City",
+                    "Legislator": "Cajayon, Mary Mitzi L.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Las Piñas City",
+                    "Legislator": "Villar, Mark A.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Makati City",
+                    "Legislator": "Lagdameo, Monique Yazmin Q.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Makati City",
+                    "Legislator": "Binay, Marlen-Abigail S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Malabon and Navotas",
+                    "Legislator": "Lacson-Noel, Josephine Veronique R.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Manila",
+                    "Legislator": "Lopez, Carlo V.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Manila",
+                    "Legislator": "Angping, Ma. Zenaida B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "4th District, Manila",
+                    "Legislator": "Bonoan-David, Ma. Theresa B.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "5th District, Manila",
+                    "Legislator": "Bagatsing, Amado S.",
+                    "New Appropriation": "25,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "25,000,000"
+                },
+                {
+                    "District": "6th District, Manila",
+                    "Legislator": "Ocampo, Rosenda Ann M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Marikina City",
+                    "Legislator": "Teodoro, Marcelino R.",
+                    "New Appropriation": "31,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "31,000,000"
+                },
+                {
+                    "District": "Lone District, Muntinlupa City",
+                    "Legislator": "Biazon, Rodolfo G.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Navotas City",
+                    "Legislator": "Tiangco, Tobias Reynald M.",
+                    "New Appropriation": "32,500,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "32,500,000"
+                },
+                {
+                    "District": "1st District, Parañaque",
+                    "Legislator": "Olivarez, Edwin D.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Parañaque City",
+                    "Legislator": "Golez, Roilo S.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "Lone District, Pasay City",
+                    "Legislator": "Calixto-Rubiano, Imelda G.",
+                    "New Appropriation": "34,500,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "34,500,000"
+                },
+                {
+                    "District": "Lone District, Pasig City",
+                    "Legislator": "Romulo, Roman T.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Pateros and Taguig City",
+                    "Legislator": "Cerafica, Arnel M.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Quezon City",
+                    "Legislator": "Crisologo, Vincent P.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Quezon City",
+                    "Legislator": "Castelo, Winston T.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "3rd District, Quezon City",
+                    "Legislator": "Banal, Jorge 'Bolet'",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "4th District, Quezon City",
+                    "Legislator": "Belmonte, Feliciano Jr. R.",
+                    "New Appropriation": "16,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "16,000,000"
+                },
+                {
+                    "District": "Lone District, San Juan City",
+                    "Legislator": "Ejercito, Joseph Victor G.",
+                    "New Appropriation": "32,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "32,000,000"
+                },
+                {
+                    "District": "2nd District, Taguig City",
+                    "Legislator": "Tinga, Sigfrido R.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "1st District, Valenzuela",
+                    "Legislator": "Gatchalian, Rexlon T.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                },
+                {
+                    "District": "2nd District, Valenzuela City",
+                    "Legislator": "Gunigundo, Magtanggol T.",
+                    "New Appropriation": "35,000,000",
+                    "Continuing(Released in 2014)": 0,
+                    "Total": "35,000,000"
+                }
+            ],
+            "total": "906,000,000"
+        }
+    ],
+    "total": "7,316,043,650"
+}
