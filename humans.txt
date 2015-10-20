@@ -34,7 +34,7 @@
 
 /* SITE */
     V4
-    Last update:2015/10/20 - Static
+    Last update:2015/10/20 - Static @ s3
 
     V3
     Last update:2014/11/19 - Redesign

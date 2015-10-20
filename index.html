@@ -62,22 +62,22 @@
 			<div class="text-center">
 				<ul class="list-inline">
 					<li>
-						<a href="http://trainguide-app.herokuapp.com" target="_blank" tooltip="Manila Train Guide application created using AngularJS and Google Maps API"><img src="assets/images/trainguide-sm.png"></a>
+						<a href="http://trainguide-app.herokuapp.com" target="_blank" title="Manila Train Guide application created using AngularJS and Google Maps API" data-toggle="tooltip" data-placement="top"><img src="assets/images/trainguide-sm.png"></a>
+					</li>
+					<!-- <li>
+						<a href="http://blog.trainguide.ph" target="_blank" tooltip="Customized blogger for Manila Train Guide" tooltip-trigger tooltip-animation="false" data-toggle="tooltip" tooltip-placement="top"><img src="assets/images/blogtrainguide-sm.png"></a>
+					</li> -->
+					<li>
+						<a href="/flap" target="_blank" title="Turn-based flappy bird" data-toggle="tooltip" data-placement="top"><img src="assets/images/flaptactics-sm.png"></a>
 					</li>
 					<li>
-						<a href="http://blog.trainguide.ph" target="_blank" tooltip="Customized blogger for Manila Train Guide" tooltip-trigger tooltip-animation="false" tooltip-placement="top"><img src="assets/images/blogtrainguide-sm.png"></a>
+						<a href="http://igda-job-board.herokuapp.com" target="_blank" title="IGDA Job Board created in RoR then changed to ExpressJS" data-toggle="tooltip" data-placement="top"><img src="assets/images/igda-sm.png"></a>
 					</li>
 					<li>
-						<a href="/flap" target="_blank" tooltip="Turn-based flappy bird" tooltip-trigger tooltip-animation="false" tooltip-placement="top"><img src="assets/images/flaptactics-sm.png"></a>
+						<a href="/pdaf" target="_blank" title="d3 of Philippine Priority Development Assistance Fund" data-toggle="tooltip" data-placement="top"><img src="assets/images/pdaf-sm.png"></a>
 					</li>
 					<li>
-						<a href="http://igda-job-board.herokuapp.com" target="_blank" tooltip="IGDA Job Board created in RoR then changed to ExpressJS" tooltip-trigger tooltip-animation="false" tooltip-placement="top"><img src="assets/images/igda-sm.png"></a>
-					</li>
-					<li>
-						<a href="/pdaf" target="_blank" tooltip="d3 of Philippine Priority Development Assistance Fund" tooltip-trigger tooltip-animation="false" tooltip-placement="top"><img src="assets/images/pdaf-sm.png"></a>
-					</li>
-					<li>
-						<a href="http://slides.jeanambait.com/angular-demo/colors.html" target="_blank" tooltip="Demo slider app for company knowledge sharing" tooltip-trigger tooltip-animation="false" tooltip-placement="top"><img src="assets/images/angulardemocolors-sm.png"></a>
+						<a href="http://slides.jeanambait.com/angular-demo/colors.html" target="_blank" title="Demo slider app for company knowledge sharing" data-toggle="tooltip" data-placement="top"><img src="assets/images/angulardemocolors-sm.png"></a>
 					</li>
 				</ul>
 			</div>
@@ -117,5 +117,10 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<!-- Include all compiled plugins (below), or include individual files as needed -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script>
+		$(function () {
+			$('[data-toggle="tooltip"]').tooltip()
+		});
+	</script>
   </body>
 </html>
