@@ -1,7 +1,82 @@
 body {
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Source Sans Pro', sans-serif !important;
+	color: #53777A !important;
 }
 
-a, a:hover, a:active {
+h1 {
+	/*font-family: 'Great Vibes', cursive !important;*/
+	font-family: 'Alex Brush', cursive !important;
+}
+
+a {
+	color: #BCE8F1 !important;
+}
+
+a:hover,
+a:focus {
+	color: #23527c !important;
+}
+
+a, 
+a:hover, 
+a:active {
 	text-decoration: none !important;
+}
+
+footer {
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+}
+
+.height-adjust {
+	height: 25vh;
+	position: relative;
+}
+
+.center-all {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.box1 {
+	background-color: #ECD078;
+}
+
+.box2 {
+	background-color: #D95B43;
+}
+
+.box3 {
+	background-color: #C02942;
+}
+
+.box4 {
+	background-color: #542437;
+}
+
+.box5 {
+	background-color: #53777A;
+}
+
+/* Bootstrap override */
+
+.list-inline>li {
+	padding: 5px !important;
+}
+
+.carousel-control.left,
+.carousel-control.right {
+	background-image: none !important;
+}
+
+.carousel-control:focus, 
+.carousel-control:hover {
+	color: #5B82BD;
+}
+
+.carousel-control {
+	color: #31708F;
 }
