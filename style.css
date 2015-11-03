@@ -115,6 +115,28 @@ footer {
 	}
 }
 
+/* Fontawesome override */
+i[class*="fa-chevron-"] {
+	font-size: 50px;
+	top: 30%;
+	position: absolute;
+	color: rgba(0,0,0,0.2);
+	cursor: pointer;
+}
+
+i.fa-chevron-left {
+	left: -12%;
+}
+
+i.fa-chevron-right {
+	right: -12%;
+}
+
+i[class*="fa-chevron-"]:hover,
+i[class*="fa-chevron-"]:focus {
+	color: rgba(0,0,0,1);
+}
+
 /* Bootstrap override */
 
 .list-inline>li {
