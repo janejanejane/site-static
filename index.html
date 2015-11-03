@@ -25,78 +25,87 @@
 	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
   </head>
-  <body>
-	<div class="container-fluid">
-		<div class="row height-adjust box1">
-			<div class="text-center center-all">
-				<h1>Hello!</h1>
-				<p>I'm Jean Claudette</p>
+  <body ng-app="projects">
+  	<div ng-controller="thumbs">
+		<div id="thumb-bg-div" class="close-it" ng-class="data.style" ng-click="closeIt()"></div>
+		<div id="thumb-div" class="close-it" ng-class="data.style">
+			<div>
+				<img ng-src="{{data.image}}">
+				<span>{{data.desc}} <a ng-href="{{data.url}}" target="_blank">[open in new tab]</a></span>
 			</div>
 		</div>
-		<div class="row height-adjust box2">
-			<div class="text-center center-all">
-				<ul class="list-inline">
-					<li>
-						<a href="mailto:jeanclaudetteambait@gmail.com" class="fa fa-envelope-square"></a>
-					</li>
-					<li>
-						<a href="https://www.facebook.com/jean.ambait" target="_blank" class="fa fa-facebook-square"></a>
-					</li>
-					<li>
-						<a href="http://instagram.com/ginclawdeath" target="_blank" class="fa fa-instagram"></a>
-					</li>
-					<li>
-						<a href="https://twitter.com/ginclawdeath" target="_blank" class="fa fa-twitter-square"></a>
-					</li>
-					<li>
-						<a href="https://plus.google.com/u/0/100840804237992932606/posts" target="_blank" class="fa fa-google-plus-square"></a>
-					</li>
-					<li>
-						<a href="skype:jeanclaudetteambait?call" class="fa fa-skype"></a>
-					</li>
-					<li>
-						<a href="http://ph.linkedin.com/in/jeanambait" target="_blank" class="fa fa-linkedin-square"></a>
-					</li>
-				</ul>
+		<div class="container-fluid">
+			<div class="row height-adjust box1">
+				<div class="text-center center-all">
+					<h1>Hello!</h1>
+					<p>I'm Jean Claudette</p>
+				</div>
+			</div>
+			<div class="row height-adjust box2">
+				<div class="text-center center-all">
+					<ul class="list-inline">
+						<li>
+							<a href="mailto:jeanclaudetteambait@gmail.com" class="fa fa-envelope-square"></a>
+						</li>
+						<li>
+							<a href="https://www.facebook.com/jean.ambait" target="_blank" class="fa fa-facebook-square"></a>
+						</li>
+						<li>
+							<a href="http://instagram.com/ginclawdeath" target="_blank" class="fa fa-instagram"></a>
+						</li>
+						<li>
+							<a href="https://twitter.com/ginclawdeath" target="_blank" class="fa fa-twitter-square"></a>
+						</li>
+						<li>
+							<a href="https://plus.google.com/u/0/100840804237992932606/posts" target="_blank" class="fa fa-google-plus-square"></a>
+						</li>
+						<li>
+							<a href="skype:jeanclaudetteambait?call" class="fa fa-skype"></a>
+						</li>
+						<li>
+							<a href="http://ph.linkedin.com/in/jeanambait" target="_blank" class="fa fa-linkedin-square"></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="row height-adjust box3">
+				<div class="text-center center-all">
+					<ul class="list-inline">
+						<li>
+							<a href="#" one thumb-style="data.style" ng-click="showPic('http://trainguide-app.herokuapp.com', 'trainguide.png', 'Manila Train Guide application created using AngularJS and Google Maps API')" title="Manila Train Guide application created using AngularJS and Google Maps API" data-toggle="tooltip" data-placement="top"><img src="assets/images/trainguide-sm.png"></a>
+						</li>
+						<!-- <li>
+							<a href="#" one thumb-style="data.style" ng-click="showPic('http://blog.trainguide.ph')" tooltip="Customized blogger for Manila Train Guide" tooltip-trigger tooltip-animation="false" data-toggle="tooltip" tooltip-placement="top"><img src="assets/images/blogtrainguide-sm.png"></a>
+						</li> -->
+						<li>
+							<a href="#" one thumb-style="data.style" ng-click="showPic('/flap', 'flap.png', 'Turn-based flappy bird')" title="Turn-based flappy bird" data-toggle="tooltip" data-placement="top"><img src="assets/images/flaptactics-sm.png"></a>
+						</li>
+						<li>
+							<a href="#" one thumb-style="data.style" ng-click="showPic('http://igda-job-board.herokuapp.com', 'igda.png', 'IGDA Job Board created in RoR then changed to ExpressJS')" title="IGDA Job Board created in RoR then changed to ExpressJS" data-toggle="tooltip" data-placement="top"><img src="assets/images/igda-sm.png"></a>
+						</li>
+						<li>
+							<a href="#" one thumb-style="data.style" ng-click="showPic('/pdaf', 'pdaf.png', 'd3 of Philippine Priority Development Assistance Fund')" title="d3 of Philippine Priority Development Assistance Fund" data-toggle="tooltip" data-placement="top"><img src="assets/images/pdaf-sm.png"></a>
+						</li>
+						<li>
+							<a href="#" one thumb-style="data.style" ng-click="showPic('http://slides.jeanambait.com/angular-demo/colors.html', 'slide.png', 'Demo slider app for company knowledge sharing')" title="Demo slider app for company knowledge sharing" data-toggle="tooltip" data-placement="top"><img src="assets/images/angulardemocolors-sm.png"></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="row height-adjust box4">
+				<div class="text-center center-all">
+					<ul class="list-inline">
+						<li>
+							<a href="http://slides.jeanambait.com/nodejs.html" target="_blank">Node.js</a>
+						</li>
+						<li>
+							<a href="http://slides.jeanambait.com/angularjs.html" target="_blank">AngularJS</a>
+						</li>
+					</ul>
+				</div>
 			</div>
 		</div>
-		<div class="row height-adjust box3">
-			<div class="text-center center-all">
-				<ul class="list-inline">
-					<li>
-						<a href="http://trainguide-app.herokuapp.com" target="_blank" title="Manila Train Guide application created using AngularJS and Google Maps API" data-toggle="tooltip" data-placement="top"><img src="assets/images/trainguide-sm.png"></a>
-					</li>
-					<!-- <li>
-						<a href="http://blog.trainguide.ph" target="_blank" tooltip="Customized blogger for Manila Train Guide" tooltip-trigger tooltip-animation="false" data-toggle="tooltip" tooltip-placement="top"><img src="assets/images/blogtrainguide-sm.png"></a>
-					</li> -->
-					<li>
-						<a href="/flap" target="_blank" title="Turn-based flappy bird" data-toggle="tooltip" data-placement="top"><img src="assets/images/flaptactics-sm.png"></a>
-					</li>
-					<li>
-						<a href="http://igda-job-board.herokuapp.com" target="_blank" title="IGDA Job Board created in RoR then changed to ExpressJS" data-toggle="tooltip" data-placement="top"><img src="assets/images/igda-sm.png"></a>
-					</li>
-					<li>
-						<a href="/pdaf" target="_blank" title="d3 of Philippine Priority Development Assistance Fund" data-toggle="tooltip" data-placement="top"><img src="assets/images/pdaf-sm.png"></a>
-					</li>
-					<li>
-						<a href="http://slides.jeanambait.com/angular-demo/colors.html" target="_blank" title="Demo slider app for company knowledge sharing" data-toggle="tooltip" data-placement="top"><img src="assets/images/angulardemocolors-sm.png"></a>
-					</li>
-				</ul>
-			</div>
-		</div>
-		<div class="row height-adjust box4">
-			<div class="text-center center-all">
-				<ul class="list-inline">
-					<li>
-						<a href="http://slides.jeanambait.com/nodejs.html" target="_blank">Node.js</a>
-					</li>
-					<li>
-						<a href="http://slides.jeanambait.com/angularjs.html" target="_blank">AngularJS</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</div>
+  	</div>
 	<footer>
 		<div class="container-fluid">
 			<p class="text-center">&copy; 2013 | <a href="/humans.txt" target="_blank">Credits</a></p>
@@ -110,12 +119,13 @@
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-		// ga('create', 'UA-38093878-1', 'auto');
+		ga('create', 'UA-38093878-1', 'auto');
 		ga('send', 'pageview');
 	</script>
 
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
 	<!-- Include all compiled plugins (below), or include individual files as needed -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 	<script>
@@ -123,5 +133,6 @@
 			$('[data-toggle="tooltip"]').tooltip()
 		});
 	</script>
+    <script src="/projects.js"></script>
   </body>
 </html>

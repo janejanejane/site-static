@@ -61,6 +61,59 @@ footer {
 	background-color: #53777A;
 }
 
+.show-it {
+	position: absolute;
+	z-index: 1;
+}
+
+.show-it div {
+	position: relative;
+}
+
+.show-it img {
+	width: 100%;
+}
+
+.show-it span {
+	display: inline-block;
+	width: 100%;
+	color: firebrick;
+	padding: 10px;
+	background-color: #F1E88E;
+	margin-top: 10px;
+}
+
+.show-it span a {
+	color: blue !important;
+	display: inline-block;
+}
+
+.close-it {
+	display: none;
+}
+
+#thumb-div {
+	width: 50%;
+	top: 10%;
+	left: 25%;
+}
+
+#thumb-bg-div {	
+	background-color: black;
+	position: absolute;
+	opacity: 0.6;
+	width: 100%;
+	height: 100%;
+}
+
+@media screen and (min-device-width: 320px) and (max-device-height: 800px) and (orientation: portrait) {
+	#thumb-div {
+		width: 80%;
+		top: 10%;
+		left: 10%;
+	}
+}
+
 /* Bootstrap override */
 
 .list-inline>li {
