@@ -71,23 +71,8 @@
 			<div class="row height-adjust box3">
 				<div class="text-center center-all">
 					<ul class="list-inline">
-						<li>
-							<a href="#" one thumb-style="data.style" ng-click="showPic('http://trainguide-app.herokuapp.com', 'trainguide.png', 'Manila Train Guide application created using AngularJS and Google Maps API')" title="Manila Train Guide application created using AngularJS and Google Maps API" data-toggle="tooltip" data-placement="top"><img src="assets/images/trainguide-sm.png"></a>
-						</li>
-						<!-- <li>
-							<a href="#" one thumb-style="data.style" ng-click="showPic('http://blog.trainguide.ph')" tooltip="Customized blogger for Manila Train Guide" tooltip-trigger tooltip-animation="false" data-toggle="tooltip" tooltip-placement="top"><img src="assets/images/blogtrainguide-sm.png"></a>
-						</li> -->
-						<li>
-							<a href="#" one thumb-style="data.style" ng-click="showPic('/flap', 'flap.png', 'Turn-based flappy bird')" title="Turn-based flappy bird" data-toggle="tooltip" data-placement="top"><img src="assets/images/flaptactics-sm.png"></a>
-						</li>
-						<li>
-							<a href="#" one thumb-style="data.style" ng-click="showPic('http://igda-job-board.herokuapp.com', 'igda.png', 'IGDA Job Board created in RoR then changed to ExpressJS')" title="IGDA Job Board created in RoR then changed to ExpressJS" data-toggle="tooltip" data-placement="top"><img src="assets/images/igda-sm.png"></a>
-						</li>
-						<li>
-							<a href="#" one thumb-style="data.style" ng-click="showPic('/pdaf', 'pdaf.png', 'd3 of Philippine Priority Development Assistance Fund')" title="d3 of Philippine Priority Development Assistance Fund" data-toggle="tooltip" data-placement="top"><img src="assets/images/pdaf-sm.png"></a>
-						</li>
-						<li>
-							<a href="#" one thumb-style="data.style" ng-click="showPic('http://slides.jeanambait.com/angular-demo/colors.html', 'slide.png', 'Demo slider app for company knowledge sharing')" title="Demo slider app for company knowledge sharing" data-toggle="tooltip" data-placement="top"><img src="assets/images/angulardemocolors-sm.png"></a>
+						<li ng-repeat="item in data.list" ng-if="item.active">
+							<a href="#" one thumb-style="data.style" ng-click="showPic(item.url, item.img, item.desc)" title="{{item.desc}}" data-toggle="tooltip" data-placement="top"><img ng-src="{{item.thumb}}"></a>
 						</li>
 					</ul>
 				</div>

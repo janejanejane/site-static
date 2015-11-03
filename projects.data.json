@@ -1,0 +1,46 @@
+{
+	"projects": [
+		{
+			"url": "http://trainguide-app.herokuapp.com", 
+			"img": "trainguide.png",
+			"desc": "Manila Train Guide application created using AngularJS and Google Maps API",
+			"thumb": "assets/images/trainguide-sm.png",
+			"active": true
+		},
+		{
+			"url": "http://blog.trainguide.ph",
+			"img": "",
+			"desc": "Customized blogger for Manila Train Guide",
+			"thumb": "assets/images/blogtrainguide-sm.png",
+			"active": false
+		},
+		{
+			"url": "/flap",
+			"img": "flap.png",
+			"desc": "Turn-based flappy bird",
+			"thumb": "assets/images/flaptactics-sm.png",
+			"active": true
+		},
+		{
+			"url": "http://igda-job-board.herokuapp.com",
+			"img": "igda.png",
+			"desc": "IGDA Job Board created in RoR then changed to ExpressJS",
+			"thumb": "assets/images/igda-sm.png",
+			"active": true
+		},
+		{
+			"url": "/pdaf",
+			"img": "pdaf.png",
+			"desc": "d3 of Philippine Priority Development Assistance Fund",
+			"thumb": "assets/images/pdaf-sm.png",
+			"active": true
+		},
+		{
+			"url": "http://slides.jeanambait.com/angular-demo/colors.html",
+			"img": "slide.png",
+			"desc": "Demo slider app for company knowledge sharing",
+			"thumb": "assets/images/angulardemocolors-sm.png",
+			"active": true
+		}
+	]
+}

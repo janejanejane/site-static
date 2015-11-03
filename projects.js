@@ -1,11 +1,12 @@
 var app = angular.module('projects', []);
 
-app.controller('thumbs', ['$scope', function($scope) {
+app.controller('thumbs', ['$scope', '$http', function($scope, $http) {
 	$scope.data = {
 		style: 'close-it',
 		image: null,
 		desc: null,
-		url: null
+		url: null,
+		list: []
 	};
 
 
@@ -25,4 +26,9 @@ app.controller('thumbs', ['$scope', function($scope) {
 		$scope.data.url = null;
 		console.log($scope.data.style);
 	}
+
+	$http.get('projects.data.json').success(function(data) {
+		$scope.data.list = data.projects;
+		console.log($scope.data.list);
+	});
 }]);
