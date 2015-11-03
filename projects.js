@@ -83,10 +83,10 @@ app.controller('thumbs', ['$scope', '$http', function($scope, $http) {
 		},
 		template:
 			'<div>'+
-				'<i class="fa fa-chevron-left" ng-click="clicked({str: projectUrl, img: projectImage, desc: projectDesc, prev: projectPrev, next: projectNext, direction: \'prev\'})"></i>'+
+				'<i class="fa fa-chevron-circle-left" ng-click="clicked({str: projectUrl, img: projectImage, desc: projectDesc, prev: projectPrev, next: projectNext, direction: \'prev\'})"></i>'+
 				'<img ng-src="{{projectImage}}">'+
 				'<span>{{projectDesc}} <a ng-href="{{projectUrl}}" target="_blank">[open in new tab]</a></span>'+
-				'<i class="fa fa-chevron-right" ng-click="clicked({str: projectUrl, img: projectImage, desc: projectDesc, prev: projectPrev, next: projectNext, direction: \'next\'})"></i>'+
+				'<i class="fa fa-chevron-circle-right" ng-click="clicked({str: projectUrl, img: projectImage, desc: projectDesc, prev: projectPrev, next: projectNext, direction: \'next\'})"></i>'+
 			'</div>'
 	}
 }]);

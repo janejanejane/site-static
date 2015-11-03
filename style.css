@@ -124,11 +124,11 @@ i[class*="fa-chevron-"] {
 	cursor: pointer;
 }
 
-i.fa-chevron-left {
+i.fa-chevron-circle-left {
 	left: -12%;
 }
 
-i.fa-chevron-right {
+i.fa-chevron-circle-right {
 	right: -12%;
 }
 
