@@ -29,12 +29,7 @@
   	<div ng-controller="thumbs">
 		<div id="thumb-bg-div" class="close-it" ng-class="data.style" ng-click="closeIt()"></div>
 		<div id="thumb-div" class="close-it" ng-class="data.style">
-			<details-display project-url="data.url" 
-			project-image="data.image" 
-			project-desc="data.desc" 
-			project-prev="data.prev" 
-			project-next="data.next"
-			project-list="data.list"></details-display>
+			<details-display project-data="data" showpic-fn="showPic(str, img, desc, prev, next)"></details-display>
 		</div>
 		<div class="container-fluid">
 			<div class="row height-adjust box1">

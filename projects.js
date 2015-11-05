@@ -43,50 +43,50 @@ app.controller('thumbs', ['$scope', '$http', function($scope, $http) {
 	return {
 		restrict: 'E',
 		scope: {
-			projectUrl: '=',
-			projectImage: '=',
-			projectDesc: '=',
-			projectPrev: '=',
-			projectNext: '=',
-			projectList: '='
+			projectData: '=',
+			showpicFn: '&'
 		},
 		replace: true,
 		link: function(scope, elm, attrs) {
 			scope.clicked = function(data) {
-				var prev = scope.projectList[data.prev],
-					next = scope.projectList[data.next];
+				var prev = scope.projectData.list[data.prev],
+					next = scope.projectData.list[data.next];
 
 				if(data.direction === 'prev') {
-					scope.projectImage = '/assets/images/' + prev.img;
-					scope.projectDesc = prev.desc;
-					scope.projectUrl = prev.str;
-					scope.projectPrev = restrictPrev(data.prev - 1);
-					scope.projectNext = restrictPrev(data.next - 1);
+					scope.showpicFn({
+						str: prev.str, 
+						img: prev.img, 
+						desc: prev.desc, 
+						prev: restrictPrev(data.prev - 1), 
+						next: restrictPrev(data.next - 1)
+					});
 				}
 
 				if(data.direction === 'next') {
-					scope.projectImage = '/assets/images/' + next.img;
-					scope.projectDesc = next.desc;
-					scope.projectUrl = next.str;
-					scope.projectPrev = restrictNext(data.prev + 1);
-					scope.projectNext = restrictNext(data.next + 1);
+					scope.showpicFn({
+						str: next.str, 
+						img: next.img, 
+						desc: next.desc, 
+						prev: restrictNext(data.prev + 1), 
+						next: restrictNext(data.next + 1)
+					});
 				}
 			};
 
 			var restrictPrev = function(val) {
-				return (val) === -1 ? scope.projectList.length - 1 : val;
+				return (val) === -1 ? scope.projectData.list.length - 1 : val;
 			};
 
 			var restrictNext = function(val) {
-				return (val) === scope.projectList.length ? 0 : val;
+				return (val) === scope.projectData.list.length ? 0 : val;
 			};
 		},
 		template:
 			'<div>'+
-				'<i class="fa fa-chevron-circle-left" ng-click="clicked({str: projectUrl, img: projectImage, desc: projectDesc, prev: projectPrev, next: projectNext, direction: \'prev\'})"></i>'+
-				'<img ng-src="{{projectImage}}">'+
-				'<span>{{projectDesc}} <a ng-href="{{projectUrl}}" target="_blank">[open in new tab]</a></span>'+
-				'<i class="fa fa-chevron-circle-right" ng-click="clicked({str: projectUrl, img: projectImage, desc: projectDesc, prev: projectPrev, next: projectNext, direction: \'next\'})"></i>'+
+				'<i class="fa fa-chevron-circle-left" ng-click="clicked({str: projectData.url, img: projectData.image, desc: projectData.desc, prev: projectData.prev, next: projectData.next, direction: \'prev\'})"></i>'+
+				'<img ng-src="{{projectData.image}}">'+
+				'<span>{{projectData.desc}} <a ng-href="{{projectData.url}}" target="_blank">[open in new tab]</a></span>'+
+				'<i class="fa fa-chevron-circle-right" ng-click="clicked({str: projectData.url, img: projectData.image, desc: projectData.desc, prev: projectData.prev, next: projectData.next, direction: \'next\'})"></i>'+
 			'</div>'
 	}
 }]);
